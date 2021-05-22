@@ -1,6 +1,6 @@
 # SalesSystem-ERacing
 
-This is a project I worked on in my 3rd semester while studying at NAIT. I collaborated with 3 other developers to build a working environment for a Racing company (ERace). 
+This is a project I worked on in my 3rd semester while studying at NAIT. I collaborated with 3 other developers to build a working environment for a F1 Racing system (ERace). 
 I was in charge of building the Sales Subsystem, which includes the pages Sales - In Store Purchase and Sales - Refund. Here's how they work:
 
 ## In Store Purchase
