@@ -14,6 +14,10 @@ using ERacingSystem.ENTITIES;
 using Microsoft.Ajax.Utilities;
 #endregion
 
+//Sales employee credentials
+//ID: JCalder 
+//PW: Pa$$w0rd
+
 namespace ERacingWebApp.Pages
 {
     public partial class sales : System.Web.UI.Page
