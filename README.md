@@ -8,3 +8,4 @@ Read more about how they work [here](https://github.com/Himank-Kadian/SalesSyste
 I have attached a description with pictures of the working project.
 
 If you would like to download the project and run it locally, it might be difficult but here's what to do:
+![image](https://user-images.githubusercontent.com/60160747/119239728-c6394180-baff-11eb-9e92-4537428b6cab.png)
