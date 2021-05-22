@@ -12,6 +12,11 @@ I was in charge of building the Sales Subsystem, which includes the pages Sales 
 - Clicking the Clear Cart button clears all the fields and resets the page for a new purchase.
 ![image](https://user-images.githubusercontent.com/60160747/119239728-c6394180-baff-11eb-9e92-4537428b6cab.png)
 
+## Refund
+-
+![image](https://user-images.githubusercontent.com/60160747/119240008-f8e43980-bb01-11eb-8700-f749225bf1f7.png)
+
+
 Read more about how they work [here](https://github.com/Himank-Kadian/SalesSystem-ERacing/tree/master/ERacingWebApp/ERacingWebApp/Pages) or navigate to SalesSystem-ERacing/ERacingWebApp/ERacingWebApp/Pages/
 
 I have attached a description with pictures of the working project.
