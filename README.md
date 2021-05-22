@@ -3,7 +3,7 @@
 This is a project I worked on in my 3rd semester while studying at NAIT. I collaborated with 3 other developers and we bult the whole app together. 
 I was in charge of building the Sales Subsystem, which includes the pages Sales - In Store Purchase and Sales - Refund. Here's how they work:
 
-##In Store Purchase
+## In Store Purchase
 - A person brings their order to the cashier who manually adds item to the cart.
 - Cashier browses through the category drop down then the item drop down. They they select the quantity of item and click add.
 - The item gets added to the list and all the totals are calculated. Adding the same item multiple times simply increases its quantity in the list.
