@@ -14,7 +14,7 @@ I was in charge of building the Sales Subsystem, which includes the pages Sales 
 
 ## Refund
 -
-![image](https://user-images.githubusercontent.com/60160747/119240008-f8e43980-bb01-11eb-8700-f749225bf1f7.png)
+![image](https://user-images.githubusercontent.com/60160747/119240032-11ecea80-bb02-11eb-9326-43a4f381dbae.png)
 
 
 Read more about how they work [here](https://github.com/Himank-Kadian/SalesSystem-ERacing/tree/master/ERacingWebApp/ERacingWebApp/Pages) or navigate to SalesSystem-ERacing/ERacingWebApp/ERacingWebApp/Pages/
