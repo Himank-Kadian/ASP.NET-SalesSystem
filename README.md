@@ -30,3 +30,4 @@ Both the purchase and refund transactions are recorded appropriately in the data
 
 Here is the navigation to the source code for [Sales](https://github.com/Himank-Kadian/SalesSystem-ERacing/blob/master/ERacingWebApp/ERacingWebApp/Pages/sales.aspx.cs) page and the [Refund](https://github.com/Himank-Kadian/SalesSystem-ERacing/blob/master/ERacingWebApp/ERacingWebApp/Pages/sales_refund.aspx.cs) page.
 
+NOTE: This is a secured app and requires employee login. Only employees working for the department can access pages specific to it.
